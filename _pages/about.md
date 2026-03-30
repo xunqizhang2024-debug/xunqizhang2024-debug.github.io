@@ -34,8 +34,3 @@ I am Xunqi Zhang, a Ph.D. student in Materials Science and Engineering at the Un
 - **[2024]** Papers published in *Theranostics* and *Small*
 - **[2023]** Paper published in *Advanced Materials Interfaces* and *Chemical Engineering Journal*
 
-## Selected Honors
-- National Scholarship (Top 2%), 2018–2019
-- Prominent Graduate, Zhejiang University, 2022
-- Brilliant Graduate Student, 2022–2023
-- Distinct Volunteer (>440 hours), Zhejiang University, 2018–2022
