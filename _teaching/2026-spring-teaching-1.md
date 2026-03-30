@@ -1,7 +1,7 @@
 ---
-title: "Teaching experience 1"
+title: "MSE170"
 collection: teaching
-type: "Undergraduate course, MSE170"
+type: "Undergraduate course"
 permalink: /teaching/2026-spring-teaching-1
 venue: "University of Washington, Materials Sciences and Engineering"
 date: 2026-03-30
